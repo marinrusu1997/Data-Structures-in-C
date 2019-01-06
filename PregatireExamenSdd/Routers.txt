@@ -1,0 +1,10 @@
+111.18.122.244,username,password,dynamic IP,webestools.com,76:e7:49:c1:72:6c
+191.120.127.90,username,password,dynamic IP,webestools.com,5a:32:b3:31:51:9e
+221.87.131.113,username,password,static IP,webestools.com,46:15:3a:7a:4c:17 
+166.143.146.191,username,password,static IP,webestools.com,a6-38-90-34-db-41
+69.141.109.211,username,password,PPPoE,webestools.com,1e-6b-3f-cb-9b-8b 
+80.253.129.111,username,password,PPPoE,webestools.com,52-b6-bc-e7-73-11 
+155.5.230.80,username,password,PPTP,webestools.com,1aa8.9dbf.087b 
+20.112.168.79,username,password,PPTP,webestools.com,1aa8.9dbf.087b 
+243.120.160.176,username,password,L2TP,webestools.com,1aa8.9dbf.087b 
+155.245.204.164,username,password,L2TP,webestools.com,1aa8.9dbf.087b 

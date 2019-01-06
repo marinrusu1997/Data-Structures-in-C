@@ -1,0 +1,9 @@
+Marin,ADMINISTRATOR,ADMIN
+Ion,MODERATOR,Marin
+Daniel,MODERATOR,Marin
+Cornel,MODERATOR,Marin
+George,SUPERVISOR,Ion
+Enache,SUPERVISOR,Ion
+Daniela,SUPERVISOR,Ion
+Cornelia,SUPERVISOR,Daniel
+Camelia,SUPERVISOR,Daniel
